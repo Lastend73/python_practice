@@ -8,3 +8,4 @@ print(num in numbers)
 for item in numbers :
     if item == num :
         print(True)
+dd
