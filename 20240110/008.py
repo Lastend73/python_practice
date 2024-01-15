@@ -1,4 +1,4 @@
-# 1부터 5의 합계를 출력
+ # 1부터 5의 합계를 출력
 result = 0
 for x in range(1,11):
     result = result + x
